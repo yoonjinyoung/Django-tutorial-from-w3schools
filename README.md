@@ -8,3 +8,7 @@ Superuser information
 username: Jin
 
 password: pass
+
+my_tennis_club: overal project setting, admins would be controled in this folder.
+members: one of the applications which would be run in "my_tennis_club" project. 
+myworld: visualization file
