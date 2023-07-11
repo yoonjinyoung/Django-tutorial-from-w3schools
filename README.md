@@ -1,14 +1,14 @@
-... # Django-tutorial-from-w3schools...
+# Django-tutorial-from-w3schools
 
-### you can replicate it exactly from following tutorial https://www.w3schools.com/django/index.php...
+### you can replicate it exactly from following tutorial https://www.w3schools.com/django/index.php
 
-#### Superuser information...
+#### Superuser information
 
 username: Jin
 
 password: pass
 
-##### folder description...
+##### folder description
 
 my_tennis_club: overal project setting, admins would be controled in this folder.
 
